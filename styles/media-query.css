@@ -1,0 +1,10 @@
+@media screen and (max-width: 600px) {
+  .fs-logo {
+    max-width: 80px;
+  }
+  main {
+    display:block;
+
+  }
+
+}
